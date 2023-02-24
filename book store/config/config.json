@@ -1,0 +1,10 @@
+{
+    "development":
+    {
+        "username":"postgres",
+        "password":"Lavender",
+        "database":"Book_store",
+        "host":"localhost",
+        "dialect":"postgres"
+    }
+}
